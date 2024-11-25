@@ -1,4 +1,6 @@
-﻿# ship_corp_design
+# ship_corp_design
+
+
 
 ## Getting started
 

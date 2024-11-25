@@ -1,0 +1,7 @@
+.vs
+build
+/BackEnd_App/Include
+/BackEnd_App/Release
+/BackEnd_App/Debug
+/BackEnd_App/CMakeLists.txt
+/c3d_sdk
